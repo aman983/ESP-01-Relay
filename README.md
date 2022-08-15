@@ -90,13 +90,13 @@ This is a esp-01 S low form factor relay module with inbulit power supply.
    PCB board view
   </p>
 <p align="center">
-  <img src="Resources/PCB.jpg" width="500" title="PCB Silk Screen"
+  <img src="Images/PCB.jpg" width="500" title="PCB Silk Screen"
 </p>
  <p align="center">
-  <img src="Resources/front_copper.jpg" width="500" title="PCB LAYOUT"
+  <img src="Images/front_copper.jpg" width="500" title="PCB LAYOUT"
 </p>
 <p align="center">
-  <img src="Resources/Silk_screen.jpg" width="500" title="PCB Silk Screen"
+  <img src="Images/Silk_screen.jpg" width="500" title="PCB Silk Screen"
 </p>
   
 ## How to program the esp-01 S with USB to TTL Converters on board:
