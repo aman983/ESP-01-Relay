@@ -112,6 +112,12 @@ This is a esp-01 S low form factor relay module with inbulit power supply.
   <li>After programming you should Press the push button and reset switch so that ESP-01 S can run the code</li>
 </ol>
 
+## Ready to load Firmware:
+
+- [Async Webserver for ESP 01 S](https://github.com/aman983/Async-Webserver-for-ESP-01-S) is a firmware that allows the board to be controlled through WiFi by using a Web interface.
+- [ESP 01 S Automation using MQTT](https://github.com/aman983/ESP-01s-Automation-using-MQTT) is a firmware that connects the board to MQTT broker and allows the board to be controlled from anywhere.
+
+
 ## How to order:
   <ol>
     <li>Download and extract the git-hub file</li>
